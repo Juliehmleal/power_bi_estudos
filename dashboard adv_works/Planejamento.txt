@@ -1,0 +1,30 @@
+Tabelas a serem usadas para formar o dashboard, factInternetSales em conjunto com suas dimensões
+
+factInternetSales
+DimDate
+DimPromotion
+DimCurrency
+DimCustomer
+DimGeography
+FactInternetSalesReason
+DimSalesTerritory
+DimProduct
+DimProductCategory
+DimProductSubCategory
+
+
+Paleta de cor:
+#85C8F2
+#3BACD9
+#23B7D9
+#8C8C8C
+#F2F2F2
+#A2FF86 (verde)
+
+
+Visuais
+tabela matriz mostrando a receita por produto
+grafico geral de vendas ao longo dos anos
+classificação de produtos mais vendidos
+Vendas por região
+crescimento ou declineo medio de vendas
